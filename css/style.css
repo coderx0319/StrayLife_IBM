@@ -9838,7 +9838,7 @@ h6 {
   padding: 0;
   list-style-type: none;
 }
-
+/*TEAM STYLE CSS*/
 *{
 	padding: 0;
 	margin: 0;
@@ -9850,7 +9850,7 @@ h6 {
 	position: relative;
 	width: 100%;
 	height: 100vh;
-	background: #fff;
+	background: orange;
 	display: flex;
 	align-items: center;
 	justify-content: center;
