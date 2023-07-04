@@ -4,7 +4,7 @@
     padding: 0;
 }
 body{
-    background: url(bg1.jpg) no-repeat center center fixed;
+    background: url(bg1.png) no-repeat center center fixed;
     background-size: cover;
 }
 .container{
