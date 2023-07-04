@@ -39,25 +39,27 @@
     color: rgb(0, 0, 0);
 }
 .box i{
-    color: rgb(27, 26, 26);
+    color: rgb(36, 33, 33);
     width: 20px;
     text-align: center;
 }
 .created{
     position: absolute;
     left: 50%;
-    color: rgb(99, 56, 199);
+    color: rgb(63, 10, 187);
 }
 .btn{
+    color: black;
     cursor: pointer;
     outline: none;
     margin: 8px 0px;
     padding: 5px 15px;
     border-radius: 8px;
     font-size: 15px;
+    background-color: rgb(99, 56, 199);
 }
 .btn:hover{
-    color: white;
+    color: rgb(0, 0, 0);
     background-color: rgb(99, 56, 199);
     opacity: 0.8;
 }
