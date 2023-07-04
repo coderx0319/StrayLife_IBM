@@ -19,12 +19,13 @@
     font-family: 'Ubuntu', sans-serif;
     display: inline-block;
     font-size: 37px;
-    border-bottom: 5px solid rgb(115, 101, 148);
+    color: black;
+    border-bottom: 5px solid rgb(99, 56, 199);
     margin-bottom: 10px;
     padding: 7px 3px;
 }   
 .box{
-    border-bottom: 2px solid rgb(115, 101, 148);
+    border-bottom: 2px solid rgb(99, 56, 199);
     margin: 27px 0px;
     width: 100%;
 }
@@ -35,16 +36,17 @@
     font-size: 15px;
     border: none;
     outline: none;
-    color: white;
+    color: rgb(0, 0, 0);
 }
 .box i{
+    color: rgb(27, 26, 26);
     width: 20px;
     text-align: center;
 }
 .created{
     position: absolute;
     left: 50%;
-    color: rgb(115, 101, 148);
+    color: rgb(99, 56, 199);
 }
 .btn{
     cursor: pointer;
@@ -56,6 +58,6 @@
 }
 .btn:hover{
     color: white;
-    background-color: rgb(115, 101, 148);
-    opacity: 0.9;
+    background-color: rgb(99, 56, 199);
+    opacity: 0.8;
 }
