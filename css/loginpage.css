@@ -1,0 +1,61 @@
+/* LOGIN PAGE CSS STYLE */
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+ body{
+    background: url(newbg.png) no-repeat center center fixed;
+    background-size: cover;
+}
+.container{
+    width: 25%;
+    color: rgb(230, 226, 236);
+    position: absolute;
+    top: 33%;
+    left: 38%;
+}
+.container h1{
+    font-family: 'Ubuntu', sans-serif;
+    display: inline-block;
+    font-size: 37px;
+    border-bottom: 5px solid rgb(115, 101, 148);
+    margin-bottom: 10px;
+    padding: 7px 3px;
+}   
+.box{
+    border-bottom: 2px solid rgb(115, 101, 148);
+    margin: 27px 0px;
+    width: 100%;
+}
+.box input{
+    background: none;
+    width: 75%;
+    padding: 4px 6px;
+    font-size: 15px;
+    border: none;
+    outline: none;
+    color: white;
+}
+.box i{
+    width: 20px;
+    text-align: center;
+}
+.created{
+    position: absolute;
+    left: 50%;
+    color: rgb(115, 101, 148);
+}
+.btn{
+    cursor: pointer;
+    outline: none;
+    margin: 8px 0px;
+    padding: 5px 15px;
+    border-radius: 8px;
+    font-size: 15px;
+}
+.btn:hover{
+    color: white;
+    background-color: rgb(115, 101, 148);
+    opacity: 0.9;
+}
