@@ -1,0 +1,30 @@
+body{
+    background: url(newbg.png) no-repeat center center fixed;
+    background-size: cover;
+}
+.panel1{
+    margin-top: 30%;
+}
+.form-gap {
+    padding-top: 70px;
+}
+.fgp{
+    color: rgb(115, 101, 148);
+}
+i{
+    color: rgb(115, 101, 148);
+}
+.btn{
+    cursor: pointer;
+    width: 100%;
+    padding: 1%;
+    margin: 8px 0px;
+    font-size: 17px;
+    background-color: rgb(115, 101, 148);
+    color: white;
+}
+.btn:hover{
+    color: white;
+    background-color: rgb(115, 101, 148);
+    opacity: 0.8;
+}
