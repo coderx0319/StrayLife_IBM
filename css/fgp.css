@@ -9,10 +9,10 @@ body{
     padding-top: 70px;
 }
 .fgp{
-    color: rgb(115, 101, 148);
+    color: rgb(99, 56, 199);
 }
 i{
-    color: rgb(115, 101, 148);
+    color: rgb(99, 56, 199);
 }
 .btn{
     cursor: pointer;
@@ -20,11 +20,18 @@ i{
     padding: 1%;
     margin: 8px 0px;
     font-size: 17px;
-    background-color: rgb(115, 101, 148);
+    background-color: rgb(99, 56, 199);
     color: white;
 }
 .btn:hover{
     color: white;
-    background-color: rgb(115, 101, 148);
+    background-color: rgb(99, 56, 199);
     opacity: 0.8;
+}
+.lgp{
+    margin-right: 13px;
+    color: rgb(63, 10, 187);
+}
+.sgp{
+    color: rgb(63, 10, 187);
 }
