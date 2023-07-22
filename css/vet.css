@@ -94,3 +94,35 @@ section.text-section.animal-section .text-col-1{
     position: relative;
     right: 74px;
 }
+
+/* Doctors */
+.section-title{
+    margin-bottom: 10px
+}
+.team-img{
+    margin-bottom: 15px;
+    max-width: 340px;
+}
+.team-box{
+    margin-bottom: 30px;
+}
+.team-info h3{
+    font-size: 24px;
+    font-weight: 700;
+}
+ul.team-social{
+    margin: 0px;
+    padding: 0px;
+}
+ul.team-social li{
+    display: inline-block;
+}
+ul.team-social li a{
+    width: 30px;
+    height: 30px;
+    background: #00bec9;
+    display: inline-block;
+    line-height: 30px;
+    color: #FFF;
+    border-radius: 50%;
+}
