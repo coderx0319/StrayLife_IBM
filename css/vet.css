@@ -57,6 +57,8 @@ section.bannner-section{
     left: -1px;
     bottom: -32px;
 }
+
+/* Services */
 .services-title{
     margin-bottom: 10px
 }
@@ -66,4 +68,29 @@ section.bannner-section{
 }
 section.text-section.animal-section .text-col{
     text-align: right;
+}
+
+/* Start Section */
+section.text-section.animal-section .text-col-1{
+    text-align: right;
+}
+.text-col-1{
+    margin-left: auto;
+}
+.text-col-1 h2{
+    font-size: 40px;
+    font-weight: 600;
+}
+.text-col-1 p{
+    font-size: 20px;
+}
+.text-col-1{
+    max-width: 466px;
+}
+.text-col-1 h2, .text-col-1 p{
+    margin-bottom: 20px;
+}
+.left-img img{
+    position: relative;
+    right: 74px;
 }
