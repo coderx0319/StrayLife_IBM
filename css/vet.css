@@ -26,3 +26,34 @@ section.bannner-section{
     border: 2px solid  #00bec9;
     margin-right: 20px;
 }
+.btn-outline-light{
+    border: 2px solid white;
+}
+
+/* Text section */
+.text-col h2{
+    font-size: 40px;
+    font-weight: 600;
+}
+.text-col p{
+    font-size: 20px;
+}
+.text-col{
+    max-width: 466px;
+}
+.text-col h2, .text-col p{
+    margin-bottom: 20px;
+}
+.right-img{
+    position: relative;
+    padding-right: 30px;
+}
+.right-img:before{
+    content: "";
+    width: 250px;
+    height: 250px;
+    position: absolute;
+    z-index: -1;
+    left: -1px;
+    bottom: -32px;
+}
