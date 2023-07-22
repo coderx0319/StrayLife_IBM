@@ -65,6 +65,12 @@
         }
     });
     
+    //Book Your Service - Submit Pop Up //   
+        document.getElementsByClassName('btn btn-dark btn-block border-0 py-3')[0].addEventListener("click", myPopupFunction);
+
+        function myPopupFunction() {
+         alert('Service Booked Successfully ✅ ')
+}
 })(jQuery);
 
 
