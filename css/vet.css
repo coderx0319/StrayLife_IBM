@@ -1,0 +1,28 @@
+/* Banner */
+section.bannner-section{
+    background-color: black;
+}
+.banner-text h1{
+    color: black;
+    font-size: 56px;
+    line-height: 68px;
+    margin-bottom: 20px;
+}
+.banner-text p{
+    color: black;
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+.banner-text{
+    max-width: 541px;
+}
+.btn{
+    font-size: 15px;
+    padding: 10px 22px;
+}
+.btn-blue{
+    background:  #00bec9;
+    color: black;
+    border: 2px solid  #00bec9;
+    margin-right: 20px;
+}
