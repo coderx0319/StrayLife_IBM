@@ -57,3 +57,13 @@ section.bannner-section{
     left: -1px;
     bottom: -32px;
 }
+.services-title{
+    margin-bottom: 10px
+}
+.services-img{
+    margin-bottom: 15px;
+    max-width: 340px;
+}
+section.text-section.animal-section .text-col{
+    text-align: right;
+}
