@@ -126,3 +126,8 @@ ul.team-social li a{
     color: #FFF;
     border-radius: 50%;
 }
+
+/* Stats */
+.stats-img img{
+    width: 130px;
+}
