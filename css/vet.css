@@ -1,3 +1,13 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+section{
+    width: 100%;
+}
+img{
+    width: 100%;
+}
 /* Banner */
 section.bannner-section{
     background-color: black;
@@ -16,6 +26,9 @@ section.bannner-section{
 .banner-text{
     max-width: 541px;
 }
+/* .banner-img img{
+    width: 659px;
+} */
 .btn{
     font-size: 15px;
     padding: 10px 22px;
@@ -90,10 +103,10 @@ section.text-section.animal-section .text-col-1{
 .text-col-1 h2, .text-col-1 p{
     margin-bottom: 20px;
 }
-.left-img img{
+/* .left-img img{
     position: relative;
     right: 74px;
-}
+} */
 
 /* Doctors */
 .section-title{
@@ -130,4 +143,34 @@ ul.team-social li a{
 /* Stats */
 .stats-img img{
     width: 130px;
+}
+
+/* For Desktop */
+@media screen and (min-width: 1024px){
+    section{
+        width: 100%;
+    }
+    img{
+        width: 100%;
+    }
+}
+
+/* For Tablet */
+@media screen and (min-width: 768px) and (max-width: 1024px){
+    section{
+        width: 100%;
+    }
+    img{
+        width: 100%;
+    }
+}
+
+/* For Mobile Portrait */
+@media screen and (max-width: 480px) and (orientation: portrait) {
+    section{
+        width: 100%
+    }
+    img{
+        width: 100%;
+    }
 }
