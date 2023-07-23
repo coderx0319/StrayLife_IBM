@@ -75,7 +75,7 @@
     document.getElementsByClassName('btn btn-lg btn-primary btn-block border-0')[0].addEventListener("click", myPopupFunction);
 
     function myPopupFunction() {
-    alert('Service Booked Successfully ✅ ')
+    alert('Feedback Submitted Successfully ✅ ')
 }
 })(jQuery);
 
