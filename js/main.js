@@ -66,10 +66,16 @@
     });
     
     //Book Your Service - Submit Pop Up //   
-        document.getElementsByClassName('btn btn-dark btn-block border-0 py-3')[0].addEventListener("click", myPopupFunction);
+    document.getElementsByClassName('btn btn-dark btn-block border-0 py-3')[0].addEventListener("click", myPopupFunction);
 
-        function myPopupFunction() {
-         alert('Service Booked Successfully ✅ ')
+    function myPopupFunction() {
+     alert('Service Booked Successfully ✅ ')
+}
+    //Book Your Service - Submit Pop Up //   
+    document.getElementsByClassName('btn btn-lg btn-primary btn-block border-0')[0].addEventListener("click", myPopupFunction);
+
+    function myPopupFunction() {
+    alert('Service Booked Successfully ✅ ')
 }
 })(jQuery);
 
