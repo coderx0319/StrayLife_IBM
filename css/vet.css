@@ -145,6 +145,7 @@ ul.team-social li a{
     width: 130px;
 }
 
+
 /* For Desktop */
 @media screen and (min-width: 1024px){
     section{
@@ -174,3 +175,28 @@ ul.team-social li a{
         width: 100%;
     }
 }
+
+/* For Mobile Landscape */
+@media screen and (max-width: 640px) and (orientation: landscape) {
+    section{
+        width: 100%
+    }
+    img{
+        width: 100%;
+    }
+}
+
+/* For Mobile Phone Portrait or Landscape */
+@media screen and (max-width: 640px) {
+    section{
+        width: 100%
+    }
+    img{
+        width: 100%;
+    }
+}
+
+@-ms-viewport{
+    width: device-width;
+  }
+
