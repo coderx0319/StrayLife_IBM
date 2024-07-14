@@ -8,16 +8,26 @@ We are excited to introduce our ambitious project, a comprehensive web platform 
 ## Features
 
 1.User Registration and Profiles
+
 2.Stray Animal Reporting
+
 3.Educational Resources
+
 4.Fundraising and Donations
+
 5.Reporting and Rescue Requests
+
 6.Events and Campaigns
+
 7.Community Engagement
-9.Geolocation and Mapping
-10.Data Analytics and Insights
-11.Accessibility and Responsiveness
-12.Feedback and Ratings
+
+8.Geolocation and Mapping
+
+9.Data Analytics and Insights
+
+10.Accessibility and Responsiveness
+
+11.Feedback and Ratings
 
 ## Technology used in this project.
 
