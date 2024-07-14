@@ -1,6 +1,6 @@
 # StrayLife
 
-![straylife logo png (1)](https://github.com/user-attachments/assets/dd1f8a37-3615-40b2-98a0-406a01f703a2) X ![image](https://github.com/user-attachments/assets/f4ca48d4-87e2-4864-aed3-ad6878c46f06)
+![straylife logo png (1)](https://github.com/user-attachments/assets/dd1f8a37-3615-40b2-98a0-406a01f703a2)
 
 
 This was a IBM SkillsBuild related to Animal Welfare which was then re designed in my next Project Name as Unity Uprise in my Third Year Mini Project...
